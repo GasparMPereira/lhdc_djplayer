@@ -1,0 +1,1 @@
+Add here your music cover - change in functions.js (in music add template)
