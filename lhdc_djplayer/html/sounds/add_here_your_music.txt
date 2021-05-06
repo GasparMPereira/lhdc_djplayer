@@ -1,0 +1,1 @@
+Add your Music to lhdc_djplayer/html/functions.js (line 32 - FOLLOW the structure)
