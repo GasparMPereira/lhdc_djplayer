@@ -7,8 +7,8 @@ This is an addon/script (standalone) for mp3 player (like spotify) in game for D
 
 	Instructions:
 		1. Add to server.cfg "ensure lhdc_djplayer"
-		2. Add your music to "lhdc_djplayer\html\sounds"
-		3. Add your music cover image to "lhdc_djplayer\html\sounds\covers"
+		2. Add your music to "lhdc_djplayer\html\sounds"  (.mp3 files)
+		3. Add your music cover image to "lhdc_djplayer\html\sounds\covers"   (any image format)
 		4. Add to "lhdc_djplayer\html\functions.js" (line 2) the number of music to use
 		5. Add to "lhdc_djplayer\html\functions.js" (line 34) follow the template to your music/cover
 		6. Thats it!
