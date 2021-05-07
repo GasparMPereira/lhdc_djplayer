@@ -1,5 +1,6 @@
 Config = {}
 Config.Range = 100.0  --< Range of Music >--
+Config.Volume = 2   --< Music Volume Divider From 2 to 99 >-- --< 2 High Volume, 99 Low Volume >--
 Config.nightclubs = {
 	bahama_mamas = {
 		dancefloor = {
