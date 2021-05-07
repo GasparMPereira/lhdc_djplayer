@@ -15,6 +15,7 @@ This is an addon/script (standalone) for mp3 player (like spotify) in game for D
 
 	Optional:
 		In config.lua you can changer the music distance to listen
+		You can change the music volume in config.lua
 		
 	The script go with 1 music, if you dont like, change by your music, and add your music
 	
