@@ -92,7 +92,7 @@ function startThreads()
 			if distance < Config.Range and coords.z < 100.0 then
 				isInClub = true
 				local number = distance/Config.Range
-				local volume = round(((1-number)/10), 2)
+				local volume = round(((1-number)/Config.Volume), 2)
 				SendNUIMessage({setvolume = volume})	
 			elseif isInClub then
 				isInClub = false
