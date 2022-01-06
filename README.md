@@ -1,5 +1,5 @@
 # Lhdc_djplayer
-Mp3 player (Add-on for my script https://github.com/Gasparpereira2004/lhdc_DjJob)
+DJ Job (Add-on for my script https://github.com/Gasparpereira2004/lhdc_DjJob)
 
 						<------- By Gaspar Pereira - gaspar#0880 ------->
 
